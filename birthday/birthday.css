@@ -10,10 +10,10 @@ h1{
 .gallery img {
      padding-right: 20px;
      padding-bottom: 20px;
-     filter: grayscale(100%);
+     filter: opacity(100%);
 }
 .gallery img:hover {
-    filter:grayscale(0%);
+    filter:opacity(85%);
     transform: scale(1.1);
 }
 .left {
