@@ -48,3 +48,6 @@ img:hover{
     cursor: pointer;
     opacity: 0.7;
 }
+a {
+    text-decoration:none;
+}
